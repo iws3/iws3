@@ -2,7 +2,7 @@
 
 <!-- Header with Name and Typing Animation -->
 <h1 align="center">Hi there, I'm IWS TECH 👋</h1>
-<h3 align="center">🚀 [YOUR_JOB_TITLE/STUDENT_STATUS] | 💼 [YOUR_WORKPLACE/SCHOOL]</h3>
+
 
 <p align="center">
   <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
