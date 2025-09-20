@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for [YOUR_FULL_NAME] -->
 
 <!-- Header with Name and Typing Animation -->
-<h1 align="center">Hi there, I'm [YOUR_FULL_NAME] 👋</h1>
+<h1 align="center">Hi there, I'm IWS TECH 👋</h1>
 <h3 align="center">🚀 [YOUR_JOB_TITLE/STUDENT_STATUS] | 💼 [YOUR_WORKPLACE/SCHOOL]</h3>
 
 <p align="center">
