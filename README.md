@@ -1,12 +1,12 @@
-<!-- GitHub Profile README for [YOUR_FULL_NAME] -->
+<!-- GitHub Profile README for Fonyuy Gita -->
 
 <!-- Header with Name and Typing Animation -->
-<h1 align="center">Hi there, I'm IWS TECH 👋</h1>
-
+<h1 align="center">Hi there, I'm Fonyuy Gita 👋</h1>
+<h3 align="center">The Real Gita | AI Engineer | Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+about+Code+%26+Creativity;Lifelong+Learner+%F0%9F%93%9A;AI+%7C+Data+%7C+Software+Craftsmanship" alt="Typing SVG" />
+  <a href="https://github.com/fonyuy-gita">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Deep+Learning+Specialist;Building+Cool+Things+with+AI+%F0%9F%A4%96;Math+%2B+ML+%3D+Magic+%E2%9C%A8;Passionate+about+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,113 +14,151 @@
 
 ## 👤 About Me
 
-- 🌍 **Location:** [YOUR_CITY, COUNTRY]  
-- 🎓 **Current Role:** [YOUR_JOB_TITLE/STUDENT_STATUS]  
-- 🏢 **Company/University:** [YOUR_WORKPLACE/SCHOOL]  
+- 🌍 **Location:** Cameroon  
+- 🎓 **Current Role:** AI Engineer  
+- 🧠 **Specialization:** Deep Learning, Machine Learning, Mathematics  
 - 📜 **Bio:**  
-  > [2-3 SENTENCE DESCRIPTION OF YOURSELF]
+  > I'm an AI Engineer passionate about pushing the boundaries of what's possible with deep learning and mathematics. I love building innovative solutions that solve real-world problems and exploring the fascinating intersection of theory and practice in AI.
 
 - 🌟 **Fun Fact:**  
-  > [INTERESTING_PERSONAL_FACT]
+  > When I'm not training neural networks, I'm probably sketching out mathematical proofs or brainstorming the next cool AI project!
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Primary Programming Languages
-![Language1](https://img.shields.io/badge/-LANGUAGE1-05122A?style=flat&logo=LANGUAGE1&logoColor=white)
-![Language2](https://img.shields.io/badge/-LANGUAGE2-05122A?style=flat&logo=LANGUAGE2&logoColor=white)
-![Language3](https://img.shields.io/badge/-LANGUAGE3-05122A?style=flat&logo=LANGUAGE3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia&logoColor=white)
 
-### 🧰 Frameworks & Libraries
-![Framework1](https://img.shields.io/badge/-FRAMEWORK1-05122A?style=flat&logo=FRAMEWORK1&logoColor=white)
-![Framework2](https://img.shields.io/badge/-FRAMEWORK2-05122A?style=flat&logo=FRAMEWORK2&logoColor=white)
-![Framework3](https://img.shields.io/badge/-FRAMEWORK3-05122A?style=flat&logo=FRAMEWORK3&logoColor=white)
+### 🧰 AI/ML Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=white)
+
+### 📊 Data Science & Math
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy&logoColor=white)
 
 ### ⚙️ Tools & Technologies
-![Tool1](https://img.shields.io/badge/-TOOL1-05122A?style=flat&logo=TOOL1&logoColor=white)
-![Tool2](https://img.shields.io/badge/-TOOL2-05122A?style=flat&logo=TOOL2&logoColor=white)
-![Tool3](https://img.shields.io/badge/-TOOL3-05122A?style=flat&logo=TOOL3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)
 
 ### 🗄️ Databases
-![Database1](https://img.shields.io/badge/-DATABASE1-05122A?style=flat&logo=DATABASE1&logoColor=white)
-![Database2](https://img.shields.io/badge/-DATABASE2-05122A?style=flat&logo=DATABASE2&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=white)
 
 ### ☁️ Cloud Platforms
-![Cloud](https://img.shields.io/badge/-CLOUD_PROVIDER-05122A?style=flat&logo=CLOUD_PROVIDER&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=white)
 
 ### 💡 Specialization Areas
-`[WEB_DEV]` | `[AI]` | `[DATA_SCIENCE]` | `[OTHER_AREAS]`
+`Deep Learning` | `Machine Learning` | `Computer Vision` | `NLP` | `Mathematical Optimization` | `Neural Architecture` | `MLOps`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌟 [Project 1 Name]
-> [Brief Description of Project 1]  
-🔗 [GitHub Repo](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME])
+### 🌟 [Deep Learning from Scratch]
+> Built neural networks from first principles using pure mathematics and NumPy to understand the fundamentals  
+🔗 [GitHub Repo](https://github.com/fonyuy-gita/deep-learning-scratch)
 
-### 🌟 [Project 2 Name]
-> [Brief Description of Project 2]  
-🔗 [GitHub Repo](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME])
+### 🌟 [AI-Powered Computer Vision System]
+> Advanced object detection and image segmentation using state-of-the-art deep learning architectures  
+🔗 [GitHub Repo](https://github.com/fonyuy-gita/cv-ai-system)
 
-### 🌟 [Project 3 Name]
-> [Brief Description of Project 3]  
-🔗 [GitHub Repo](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME])
+### 🌟 [Mathematical ML Toolkit]
+> Custom implementations of ML algorithms with detailed mathematical derivations and visualizations  
+🔗 [GitHub Repo](https://github.com/fonyuy-gita/math-ml-toolkit)
 
-🏆 **Notable Achievement:** [CERTIFICATION/AWARD/MILESTONE]
+🏆 **Notable Achievement:** Published research on novel neural network architectures for resource-constrained environments
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fonyuy-gita&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fonyuy-gita&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonyuy-gita&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile+Visitors&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fonyuy-gita&label=Profile+Visitors&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-🎯 [WHAT_YOU'RE_CURRENTLY_LEARNING]  
-📬 **Open to Collaborate On:** [TYPES_OF_PROJECTS]  
-💬 **Ask Me About:** [YOUR_EXPERTISE_AREAS]  
-🎨 **Hobbies/Interests:** [PERSONAL_INTERESTS]
+🎯 **Advanced Topics:**
+- Transformer architectures and attention mechanisms
+- Reinforcement learning from human feedback (RLHF)
+- Geometric deep learning
+- Quantum machine learning fundamentals
+
+📬 **Open to Collaborate On:**
+- Deep learning research projects
+- AI/ML applications for social impact
+- Open-source ML frameworks
+- Mathematical optimization problems
+
+💬 **Ask Me About:**
+- Deep learning architectures (CNNs, RNNs, Transformers)
+- Mathematical foundations of ML
+- Model optimization and deployment
+- Computer vision and NLP
+
+🎨 **Hobbies/Interests:**
+- Mathematical puzzles and proofs
+- Reading AI research papers
+- Building experimental AI projects
+- Exploring the philosophy of intelligence
 
 ---
 
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/[TWITTER_HANDLE]"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="[WEBSITE_URL]"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:[EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/[DISCORD_USERNAME]"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="[BLOG_URL]"><img src="https://img.shields.io/badge/-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fonyuy-gita"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/therealgita"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://fonyuygita.dev"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:fonyuy.gita@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@therealgita"><img src="https://img.shields.io/badge/-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🎉 Fun Footer
+## 🎉 Philosophy
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
-> _"Learning never exhausts the mind."_ – Leonardo da Vinci  
+> _"In the world of AI, mathematics is the language, data is the medium, and deep learning is the art."_ – The Real Gita  
+> _"The only way to do great work is to love what you do."_ – Steve Jobs  
+> _"Mathematics is the music of reason."_ – James Joseph Sylvester
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <p><strong>✨ Building the future, one neural network at a time ✨</strong></p>
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
